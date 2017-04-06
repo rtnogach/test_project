@@ -1,6 +1,5 @@
 #include <stdio.h>
-jhgjgh\
 
-hgfhgf
-\jkjhk
-jkihjk
+int main(){
+return 0;
+}
